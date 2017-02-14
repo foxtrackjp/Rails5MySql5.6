@@ -1,7 +1,7 @@
 # Rails5MySql5.6
 make an environment of
 - Ruby 2.3.1
-- Rail 5
+- Rails 5
 - MySQL 5.6
 
 # pull this repository
